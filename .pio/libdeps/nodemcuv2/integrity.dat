@@ -1,0 +1,6 @@
+adafruit/Adafruit Motor Shield V2 Library@^1.0.10
+adafruit/Adafruit Unified Sensor@^1.1.4
+bblanchon/ArduinoJson@^6.17.0
+gilmaimon/ArduinoWebsockets@^0.4.18
+adafruit/DHT sensor library@^1.4.0
+links2004/WebSockets@^2.3.1
